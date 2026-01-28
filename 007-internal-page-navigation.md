@@ -1,4 +1,4 @@
-## HTML-101: Internal Page Navigation (Anchor / Hash Links)
+## Internal Page Navigation (Anchor / Hash Links)
 
 ### 1. What is Internal Page Navigation?
 
